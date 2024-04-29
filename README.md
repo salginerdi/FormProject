@@ -2,6 +2,8 @@
 
 Bu proje, React kullanarak Formik, Yup ve React Router DOM kütüphanelerini kullanarak bir form uygulaması geliştirmek için örnek bir şablon sunar. Proje, genel bir form ve bir portal form olmak üzere iki farklı form içerir.
 
+incelemek için: https://form-phi-roan.vercel.app/
+
 ## Genel Form
 
 Genel form, kullanıcıdan e-posta, yaş, şifre ve şifre tekrarı gibi temel bilgilerin istenmesini içerir. Form, kullanıcı tarafından sağlanan bilgilerin doğruluğunu Yup şema doğrulama kütüphanesi ile kontrol eder. Eğer kullanıcı gerekli alanları doldurmadıysa veya geçerli olmayan bir değer girdiyse, Yup ile uygun hata mesajları gösterilir.
@@ -32,6 +34,8 @@ _________________________
 # React Form Project
 
 This project provides an example template for developing a form application using React, Formik, Yup, and React Router DOM libraries. The project includes two different forms: a general form and a portal form.
+
+to review: https://form-phi-roan.vercel.app/
 
 ## General Form
 
